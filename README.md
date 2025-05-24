@@ -1,3 +1,3 @@
-This is a project practicing data extraction through API and web-scraping.
-                    
-IBM Data Analyst Courses - Python Project for Data Science 
+IBM Data Analyst Courses Practicing Projects                                                                              
+including:                                                                 
+Python Project for Data Science -- data extraction through API and web-scraping
